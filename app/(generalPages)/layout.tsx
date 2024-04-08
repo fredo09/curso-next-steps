@@ -1,6 +1,3 @@
-
-
-
 /**
  *  estructura layout pages
  * (_NOMBE_FILE_) -> ayuda a que se cargue o agrupe las pages y que no se cuente la carpeta que tiene esa agrupacion. 
