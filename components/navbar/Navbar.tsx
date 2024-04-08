@@ -11,7 +11,7 @@ type navItem = [
 
 const navItems: navItem = [
   { path: "/about", value: "About" },
-  { path: "/pricing", value: "pricing" },
+  { path: "/pricing", value: "Pricing" },
   { path: "/contact", value: "Contact" },
 ];
 

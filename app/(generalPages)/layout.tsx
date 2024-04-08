@@ -10,7 +10,7 @@ export default function PublicLayout({ children }: { children: React.ReactNode; 
     <>
       <Navbar />
       <main className="flex flex-col items-center p-24">
-        <span className="text-lg"> hola mundo</span>
+        <span className="text-lg">Hi Page</span>
         {children}
       </main>
     </>
